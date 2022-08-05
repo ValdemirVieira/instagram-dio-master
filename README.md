@@ -4,4 +4,5 @@ Esse é o repositório do Desafio de Projeto das aulas de Flexbox no bootcamp da
 
 Ps.: Tentei adicionar um Footer, mas não consegui encaixá-lo na parte de baixo da tela, após todos os itens. O Footer ficou em baixo, mas ficou ao lado dos outros blocos.
 
-<a href="https://valdemirvieira.github.io/instagram-dio-master/" target="_blank">Executar o App.</a>
+[Executar o App.](https://valdemirvieira.github.io/instagram-dio-master/)
+
